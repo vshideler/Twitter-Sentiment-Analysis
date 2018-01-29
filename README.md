@@ -1,1 +1,1 @@
-# Twitter-Sentiment-Analysis
+This is a project to apply sentiment analysis to 200+ tweets, then using Python to move the data to Amazon DynamoDB. The data was then exported to Apache Hive, where queries were performed on the data.
